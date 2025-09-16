@@ -56,32 +56,6 @@ Building intelligent solutions with cutting-edge AI/ML technologies and scalable
 ### 🔒 Security & DevSecOps
 **Expertise:** Secure CI/CD, Container Security, SAST/DAST/IAST, Vulnerability Assessment, Threat Modeling, SOC Compliance, Network Security, Cryptography, Penetration Testing
 
-## 🌟 Featured Projects
-
-### 🤖 [AI PDF Chatbot: Interact with Your Documents Using AI](https://github.com/bhavenchheda)
-- Built with **FastAPI, LangChain, and Qdrant**
-- Integrated **Groq LLMs** (llama-3.3-70b, mixtral-8x7b) for natural language queries
-- **40% faster response speed** and **25% improved accuracy**
-- Enhanced document parsing with **PyPDF2** and **Sentence Transformers**
-
-### 📝 [GrantAIde — AI-Powered Grant Writing Platform](https://bhavenchhedaportfolio.netlify.app/)
-- AI grant writing assistant using **LangChain, Python, and Firebase**
-- Features: Grant search database, CRM system, real-time collaboration
-- **50%+ reduction** in proposal preparation time
-- Advanced PDF/DOCX export capabilities
-
-### 📰 [NeuzNow - News In Just 60 Words](https://github.com/bhavenchheda)
-- Real-time news aggregation with **Python NLP**
-- Cross-platform **React Native** mobile app
-- Scalable infrastructure with **AWS (EC2, S3, Lambda)** and **Firebase**
-- Community engagement features for authors and contributors
-
-### 🔍 [Network Scanner - Cyber Security Tool](https://github.com/bhavenchheda)
-- GUI-based network vulnerability scanner
-- Built with **Flask, Python, and Nmap**
-- **70% efficiency improvement** in network security assessment
-- Developed during Cyber Security Summer Internship at BISAG
-
 ## 📊 Research & Publications
 
 ### 🧬 SAGAFS Research (In Progress)
@@ -94,30 +68,6 @@ Building intelligent solutions with cutting-edge AI/ML technologies and scalable
 - Embedded hardware integration: **Heltec WiFi LoRa 32 V3, QMC5883L compass, NEO-6M GPS**
 - Custom **C++ firmware** and **React Native mobile app**
 - **Bluetooth Low Energy** connectivity for real-time navigation
-
-## 💼 Professional Experience
-
-**🚀 Full-Stack AI Engineer Intern** @ BeProEx (May 2025 – Present)
-- Built Next.js platform with **Sanity.io CMS** and **PostgreSQL**
-- Developed Python AI agents serving **200+ startups**
-- Achieved **99.9% uptime** and **30% faster load times**
-
-**🔬 Research & Teaching Assistant** @ Cal State LA (Jan 2025 – Present)
-- Leading autonomous boat navigation research
-- Teaching Assistant for CS 3801 - Ethics in Computer Science
-
-**⚙️ DevOps Engineer** @ Samcom Technobrains (Aug 2023 – Jul 2024)
-- Led **15+ DevOps projects** for global clients
-- Deployed **100+ CI/CD pipelines** across multi-cloud environments
-
-## 📈 Impact & Achievements
-
-- 🎯 **25% reduction** in user onboarding time through AI-powered platforms
-- 🚀 **50% faster** deployment times with automated CI/CD pipelines
-- 🔍 **88% accuracy** in real-time face detection systems
-- 📊 **20% improvement** in ML model accuracy with novel research methods
-- ☁️ **99.9% uptime** for cloud-deployed applications
-- 👥 Scaled operations for **150+ employees** across multiple organizations
 
 ## 🎓 Education
 
@@ -133,16 +83,11 @@ Building intelligent solutions with cutting-edge AI/ML technologies and scalable
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhaven-chheda/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://bhavenchhedaportfolio.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhavenchheda)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhavenchheda790)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bchheda@calstatela.edu)
-
-## 📊 GitHub Stats
-
-![Bhaven's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavenchheda&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavenchheda&layout=compact&theme=radical)
 
 ---
 
 💡 **"Building the future with AI, one intelligent solution at a time"**
 
-⭐️ From [bhavenchheda](https://github.com/bhavenchheda)
+⭐️ From [bhavenchheda](https://github.com/bhavenchheda790)
